@@ -12,7 +12,8 @@
   "dependencies": {
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-fs": "^2.16.6"
+    "react-native-fs": "^2.16.6",
+    "xlsx": "^0.16.9"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
